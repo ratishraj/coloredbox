@@ -12,7 +12,7 @@
         {
             "kind": "main",
             "tag": "com-sample-box",
-            "url": "https://www.sample.com/customwidgets/box/box.js",
+            "url": "https://ratishraj.github.io/coloredbox/box.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
@@ -20,7 +20,7 @@
         {
             "kind": "styling",
             "tag": "com-sample-box-styling",
-            "url": "https://www.sample.com/customwidgets/box/box_styling.js",
+            "url": "https://ratishraj.github.io/coloredbox/box_styling.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
@@ -28,7 +28,7 @@
         {
             "kind": "builder",
             "tag": "com-sample-box-builder",
-            "url": "https://www.sample.com/customwidgets/box/box_builder.js",
+            "url": "https://ratishraj.github.io/coloredbox/box_builder.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
